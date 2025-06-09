@@ -1,5 +1,20 @@
 # About me
 
+Hello there! My name's Imogen and I am a Software Developer and recent Makers Bootcamp Graduate (yay!).
+
+While I was at Makers, I specialised in Software Development with Go and grew very interested in backend development. This was a surprise to everyone who knows me because I have a degree in Film Studies and love to draw. However, I also love to try new things and really enjoyed stepping out of my comfort zone to learn how to work with databases and logic.
+
+My current project is called "It's Raining Cats and Dogs". It's a weather forecast website that will allow the user to toggle between cat and dog themed weather icons.
+
+## Hobbies
+
+|    | In my spare time I...                                                                                                                                           |
+|----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|                        
+| 🎤 | Am an amateur storyteller and perform pretty regularly at open mic nights!                                                                                      |
+| 🌱 | Work on my garden and wonder what is eating only the left side of my radishes (it doesn't eat the whole radish, only the left side of the radish and I cannot fathom why) |
+| 🪕 | Play the banjo! I play old-time clawhammer style. I sometimes also play my banjo to the radishes.                                                               |
+| 📚 | Read. A lot. (I used to work in a library and my friends still contact me whenever they need to find obscure, out of print books).                |
+
 
 
 ## Languages and Technologies
